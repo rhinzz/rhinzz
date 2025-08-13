@@ -1,21 +1,8 @@
-## Hi there 👋
+# Hi, I'm Prama 👋
 
-My name is **Pramatya Sudjana**.<br>
-Currently final year student in Digital Business major at Padjadjaran University.
+* 🏫 I'm a student in Digital Business major at Padjadjaran University<br>
+* 🌱 I'm currently learning web development<br>
 
-📧 [Email](prama.sudjana@gmail.com)<br>
-🟦 [Linkedin](www.linkedin.com/pramatya-sudjana)
-<!--
-**rhinzz/rhinzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me on:
+* [Email](prama.sudjana@gmail.com)<br>
+* [Linkedin](www.linkedin.com/pramatya-sudjana)
