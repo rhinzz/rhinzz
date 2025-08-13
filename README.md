@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is **Pramatya Sudjana**.<br>
+Currently final year student in Digital Business major at Padjadjaran University.
+
+📧 [Email](prama.sudjana@gmail.com)<br>
+🟦 [Linkedin](www.linkedin.com/pramatya-sudjana)
 <!--
 **rhinzz/rhinzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
