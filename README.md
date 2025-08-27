@@ -1,6 +1,5 @@
 <h1 align=center>Hi, I'm Pramatya Sudjana 👋</h1> 
 
-## About Me
 * 🏫 I'm a student in Digital Business major at Padjadjaran University<br>
 * 🌱 I'm currently learning web development<br>
 
