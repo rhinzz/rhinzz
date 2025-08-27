@@ -1,4 +1,4 @@
-<h1 align=center>Hi, I'm Prama 👋</h1> 
+<h1 align=center>Hi, I'm Pramatya Sudjana 👋</h1> 
 
 * 🏫 I'm a student in Digital Business major at Padjadjaran University<br>
 * 🌱 I'm currently learning web development<br>
